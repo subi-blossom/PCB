@@ -1,3 +1,9 @@
+#My-PCB
+I made this pcb in my club workshop where we learnt about KiCad for the first time
+
+
+
+
 ## Schematic
 ![](PCB1.PNG)
 
