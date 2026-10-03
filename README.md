@@ -1,9 +1,9 @@
 ## Schematic
-![](PCB1)
+![](PCB1.PNG)
 
 ## PCB
-![](PCB)
-![](PCB2)
+![](PCB.PNG)
+![](PCB2.PNG)
 ## How to build
 Just order the PCB & components, open up the KiCAD file and build it accordingly.
 
